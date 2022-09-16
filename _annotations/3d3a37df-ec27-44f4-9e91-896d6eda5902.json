@@ -1,0 +1,46 @@
+---
+canvas: "https://gallica.bnf.fr/iiif/ark:/12148/btv1b5963910q/canvas/f1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Titolo",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MFrancescaBocchi",
+                "name": "MFrancescaBocchi"
+            },
+            "created": "2022-09-16T09:58:46.316Z",
+            "modified": "2022-09-16T09:58:52.588Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "MFB",
+            "purpose": "tagging",
+            "creator": {
+                "id": "MFrancescaBocchi",
+                "name": "MFrancescaBocchi"
+            },
+            "created": "2022-09-16T09:59:15.263Z",
+            "modified": "2022-09-16T09:59:21.423Z"
+        }
+    ],
+    "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b5963910q/canvas/f1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=251.08511352539062,282.3531188964844,1890.7017517089844,1757.1421203613281"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b5963910q/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3d3a37df-ec27-44f4-9e91-896d6eda5902.json",
+    "motivation": "commenting"
+}
