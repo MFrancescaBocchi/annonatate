@@ -1,0 +1,35 @@
+---
+canvas: "https://purl.stanford.edu/wh234bz9013/iiif/canvas/cocina-fileSet-wh234bz9013-wh234bz9013_1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Costellazione del gemelli",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MFrancescaBocchi",
+                "name": "MFrancescaBocchi"
+            },
+            "created": "2022-10-10T14:37:56.844Z",
+            "modified": "2022-10-10T14:38:02.003Z"
+        }
+    ],
+    "target": {
+        "source": "https://purl.stanford.edu/wh234bz9013/iiif/canvas/cocina-fileSet-wh234bz9013-wh234bz9013_1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4333.33203125,3849.80517578125,660.15966796875,781.568359375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://purl.stanford.edu/wh234bz9013/iiif/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "12613b4a-7748-4486-8764-16f85dfd3ff3.json",
+    "motivation": "commenting"
+}
