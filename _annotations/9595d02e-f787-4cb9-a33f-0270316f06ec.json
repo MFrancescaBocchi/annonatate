@@ -1,0 +1,35 @@
+---
+canvas: "https://purl.stanford.edu/wh234bz9013/iiif/canvas/cocina-fileSet-wh234bz9013-wh234bz9013_1"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "costellazione del cancro",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MFrancescaBocchi",
+                "name": "MFrancescaBocchi"
+            },
+            "created": "2022-10-10T14:38:25.703Z",
+            "modified": "2022-10-10T14:38:30.268Z"
+        }
+    ],
+    "target": {
+        "source": "https://purl.stanford.edu/wh234bz9013/iiif/canvas/cocina-fileSet-wh234bz9013-wh234bz9013_1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4955.5517578125,3717.014404296875,607.04345703125,1111.648681640625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://purl.stanford.edu/wh234bz9013/iiif/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9595d02e-f787-4cb9-a33f-0270316f06ec.json",
+    "motivation": "commenting"
+}
