@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "test",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://mfrancescabocchi.github.io/annonatate/annotations/12148-btv1b5963910q-f1-list.json'></iiif-storyboard>",
+            "title": "prima annotazione",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
