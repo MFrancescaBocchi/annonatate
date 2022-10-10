@@ -1,0 +1,35 @@
+---
+canvas: "https://gallica.bnf.fr/iiif/ark:/12148/btv1b5963910q/canvas/f1"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Veliero",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MFrancescaBocchi",
+                "name": "MFrancescaBocchi"
+            },
+            "created": "2022-10-10T15:50:05.690Z",
+            "modified": "2022-10-10T15:50:07.126Z"
+        }
+    ],
+    "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b5963910q/canvas/f1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3502.915283203125,1048.12841796875,527.3525390625,553.5189208984375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b5963910q/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "780bbf09-24dd-4d01-8477-4196d2c346f1.json",
+    "motivation": "commenting"
+}
