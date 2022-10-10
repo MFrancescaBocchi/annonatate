@@ -1,0 +1,35 @@
+---
+canvas: "https://mfrancescabocchi.github.io/annonatate/img/derivatives/iiif/Viaggi/canvas/Viaggi-1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "cavaliere",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MFrancescaBocchi",
+                "name": "MFrancescaBocchi"
+            },
+            "created": "2022-10-10T10:27:34.876Z",
+            "modified": "2022-10-10T10:27:39.969Z"
+        }
+    ],
+    "target": {
+        "source": "https://mfrancescabocchi.github.io/annonatate/img/derivatives/iiif/Viaggi/canvas/Viaggi-1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1957.869384765625,922.6666259765625,466.80029296875,750.5936279296875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://mfrancescabocchi.github.io/annonatate/img/derivatives/iiif/Viaggi/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d8742e39-9f9d-4ae3-a61d-f71842c7fcbb.json",
+    "motivation": "commenting"
+}
