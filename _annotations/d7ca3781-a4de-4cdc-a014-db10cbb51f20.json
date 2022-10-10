@@ -1,0 +1,35 @@
+---
+canvas: "https://mfrancescabocchi.github.io/annonatate/img/derivatives/iiif/scultura/canvas/scultura-1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Ercole e Caco",
+            "purpose": "commenting",
+            "creator": {
+                "id": "MFrancescaBocchi",
+                "name": "MFrancescaBocchi"
+            },
+            "created": "2022-10-10T14:56:55.418Z",
+            "modified": "2022-10-10T14:57:00.984Z"
+        }
+    ],
+    "target": {
+        "source": "https://mfrancescabocchi.github.io/annonatate/img/derivatives/iiif/scultura/canvas/scultura-1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2695.584228515625,470.5920104980469,1352.332763671875,460.6848449707031"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://mfrancescabocchi.github.io/annonatate/img/derivatives/iiif/scultura/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d7ca3781-a4de-4cdc-a014-db10cbb51f20.json",
+    "motivation": "commenting"
+}
